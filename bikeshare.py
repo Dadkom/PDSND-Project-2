@@ -1,3 +1,7 @@
+# ALMEGDAD AL AL ALI
+# PROGRAMMING FOR DATA SCIENCE "PYTHON_PROJECT"
+# OCTOBER, 27 2019
+
 import time
 import pandas as pd
 import numpy as np
